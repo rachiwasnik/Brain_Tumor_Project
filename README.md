@@ -2,6 +2,8 @@
 
 This repository contains code for training and deploying a deep learning model (VGG16) to detect the presence of brain tumors in MRI images. The dataset consists of two folders: "yes" containing images with brain tumors and "no" containing images without brain tumors.
 
+Dataset link : https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection
+
 Objectives
 Develop a deep learning model capable of accurately detecting brain tumors in MRI images.
 Train the model using the VGG16 architecture on a dataset of labeled brain MRI images.
